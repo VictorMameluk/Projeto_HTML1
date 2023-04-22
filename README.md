@@ -10,3 +10,8 @@ a página principal, quem somos e a página de contato com um formulário.
 <img src="https://github.com/VictorMameluk/Projeto_HTML1/blob/main/assets/unes3.png">
  
  
+ # Autor:
+ 
+ ### Victor Mameluk 
+ 
+ https://www.linkedin.com/in/victor-mameluk-68309913a/
